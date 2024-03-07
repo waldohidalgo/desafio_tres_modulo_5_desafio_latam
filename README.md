@@ -4,6 +4,8 @@ Este repositorio contiene el código del desafío **número 3 del** módulo 5 **
 
 ![Requisitos del desafío](./screenshots/requisitos.webp)
 
+Para realizar el desafío he utilizado **DBeaver versión 24.0.0**.
+
 A continuación muestro el código y output de mis respuestas a cada pregunta del desafío:
 
 ## 1. Crear una base de datos llamada películas
